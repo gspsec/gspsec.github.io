@@ -1,2 +1,2 @@
 # gspsec.com
-The main page.
+The main site.
